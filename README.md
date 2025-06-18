@@ -1,2 +1,2 @@
 # tip-calculator
-First Python project &amp; practice; calculates my daily and weekly tips from my serving job
+This is my first python script as well as an attempt at "practice" in terms of what I hope to be able to accomplish in the future. This is a simple tip calculator where tip amounts are entered, it adds them together, calculates the average and prints the results. This was a simple exerscice I wanted to try with Pyhton and I hope to just expand on it gradually time. To try it out, copy the code in 'tip_calculator.py,' then paste it into [Replit]. Enter tip amounts into blanks when prompted to recieve an average of tips for the week. 
